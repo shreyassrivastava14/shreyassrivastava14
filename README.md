@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyassrivastava14
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on every open world projects
 - 📫 How to reach me ,mail me at shreyassrivastava14@outlook.com
 - 😄 Pronouns: he/him
